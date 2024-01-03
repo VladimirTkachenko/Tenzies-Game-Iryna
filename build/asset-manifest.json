@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tenzies-Game-Iryna/static/css/main.54a0515c.css",
+    "main.js": "/Tenzies-Game-Iryna/static/js/main.ffc31529.js",
+    "index.html": "/Tenzies-Game-Iryna/index.html",
+    "main.54a0515c.css.map": "/Tenzies-Game-Iryna/static/css/main.54a0515c.css.map",
+    "main.ffc31529.js.map": "/Tenzies-Game-Iryna/static/js/main.ffc31529.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a0515c.css",
+    "static/js/main.ffc31529.js"
+  ]
+}
